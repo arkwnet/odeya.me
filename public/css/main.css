@@ -214,6 +214,12 @@ p {
   }
 }
 
+@media screen and (max-width: 408px) {
+  .left .ticket img {
+    width: 260px;
+  }
+}
+
 @media screen and (max-width: 1348px) {
   .header {
     width: 100%;
